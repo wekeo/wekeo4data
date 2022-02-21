@@ -1,0 +1,19 @@
+# Copyright holder
+EUMETSAT and Mercator Ocean International under the frameworks of the Copernicus Programme
+
+# List of development authors
+Hayley Evers-King (EUMETSAT)
+Julia Wagemann (MEEO SRL)
+Benjamin Loveday (INNOFLAIR UG)
+Oliver Clements (PML)
+Vinca Rosmorduc (CLS)
+Fabrice Messal (MOI)
+Renaud Dussurget (MOI)
+Jonathan Brouillet (MOI)
+Laia Romero (ISARDSAT)
+Chris Stewart (ECMWF)
+Carlos Fortuny Lombrana (TU DELFT)
+Federico Croce (SAPIENZA UNIVERSITY OF ROME)
+
+# Support
+For all queries on this software package, please contact support@wekeo.eu

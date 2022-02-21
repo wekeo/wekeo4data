@@ -1,0 +1,12 @@
+# Copyright holder
+EUMETSAT 
+
+Work partly developed under contract EUM/CO/17/4600001942/CT
+ 
+# List of development authors
+Ben Loveday, ben.loveday@external.eumetsat.int
+Hayley Evers-King, hayley.eversking@eumetsat.int
+Oliver Clements, olcl@pml.ac.uk 
+
+
+# Acknowledgements

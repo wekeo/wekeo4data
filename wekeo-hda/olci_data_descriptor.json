@@ -1,0 +1,35 @@
+{
+  "datasetId": "EO:EUM:DAT:SENTINEL-3:OL_1_EFR___",
+  "boundingBoxValues": [
+    {
+      "name": "bbox",
+      "bbox": [
+        134.2477516188146,
+        22.00625971252353,
+        137.58597074610276,
+        25.18812983958223
+      ]
+    }
+  ],
+  "dateRangeSelectValues": [
+    {
+      "name": "position",
+      "start": "2021-09-29T00:00:00.000Z",
+      "end": "2021-09-30T00:00:00.000Z"
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "platformname",
+      "value": "Sentinel-3"
+    },
+    {
+      "name": "producttype",
+      "value": "OL_1_EFR___"
+    },
+    {
+      "name": "timeliness",
+      "value": "Non Time Critical"
+    }
+  ]
+}
