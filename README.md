@@ -38,7 +38,7 @@ If you are on GitHub/Lab you can visit www.wekeo.eu, register for an account and
 
 If you are currently on the WEkEO JupyterLab you're already in the right place and can start. To clone this repository in to the WEkEO JupyterLab environment open a terminal in the WEkEO JupyterLab, type 
   > `cd work`<br>
-  > `git clone https://github.com/wekeo/wekeo4data`<br> 
+  > `git clone https://github.com/wekeo/wekeo4data.git`<br> 
  
  This will create a clone of this repository of notebooks in the work directory on your Jupyterlab instance. You can use the same command to clone any external repository you like.
 
