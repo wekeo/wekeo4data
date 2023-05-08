@@ -1,0 +1,3 @@
+[submodule "working-with-python"]
+	path = working-with-python
+	url = https://github.com/wekeo/working-with-python.git
