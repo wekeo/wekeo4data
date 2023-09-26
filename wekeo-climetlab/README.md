@@ -1,9 +1,8 @@
 # wekeo-climetlab
  
-**wekeo** is a collection of Python-based code 
-designed to provide introductory training on the use 
-of the CliMetLab WEkEO Plugins. This module is designed to stand-alone but also forms parts of wider 
-WEkEO training activities.
+**wekeo-climetlab** is a collection of Python-based code 
+designed to provide an introduction and examples on the use 
+of the CliMetLab WEkEO Plugins.
 
 ## License
  
