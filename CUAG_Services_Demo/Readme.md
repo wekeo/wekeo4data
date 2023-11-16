@@ -1,0 +1,1 @@
+This repository contains all the files supporting the demonstration of the CliMetLan and xcube Viewer tools, whcih was presented in the context of the CUAG WEkEO Services Workshop on the 13th November 2023. 
