@@ -1,0 +1,9 @@
+product: OLL2WFR
+filter:
+  bands:
+  - chl_nn
+projection: geographic
+resample_resolution:
+- 0.003
+- 0.003
+format: netcdf4
