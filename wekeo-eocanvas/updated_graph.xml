@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graph id="pixExGraph">
+  <version>1.0</version>
+  <node id="someNodeId">
+    <operator>PixEx</operator>
+    <parameters>
+      <sourceProductPaths>$img1</sourceProductPaths>
+      <exportBands>true</exportBands>
+      <exportTiePoints>true</exportTiePoints>
+      <exportMasks>true</exportMasks>
+      <coordinates>
+        <coordinate>
+          <name>Coord_0</name>
+          <latitude>27.8931</latitude>
+          <longitude>-82.9425</longitude>
+          <dateTime>2024-07-30T08:31:00</dateTime>
+          <originalValues />
+          <id>0</id>
+        </coordinate>
+        <coordinate>
+          <name>Coord_1</name>
+          <latitude>28.225</latitude>
+          <longitude>-82.6725</longitude>
+          <dateTime>2024-07-31T09:00:00</dateTime>
+          <originalValues />
+          <id>1</id>
+        </coordinate>
+        <coordinate>
+          <name>Coord_2</name>
+          <latitude>28.123</latitude>
+          <longitude>-82.523</longitude>
+          <dateTime>2024-08-01T10:15:00</dateTime>
+          <originalValues />
+          <id>2</id>
+        </coordinate>
+      </coordinates>
+      <timeDifference>1D</timeDifference>
+      <windowSize>1</windowSize>
+      <outputDir>C:\Users\erdmann\PixEx\only_SNAPopen</outputDir>
+      <outputFilePrefix>pixEx</outputFilePrefix>
+      <exportExpressionResult>true</exportExpressionResult>
+      <aggregatorStrategyType>no aggregation</aggregatorStrategyType>
+      <exportSubScenes>true</exportSubScenes>
+      <subSceneBorderSize>0</subSceneBorderSize>
+      <exportKmz>false</exportKmz>
+      <extractTimeFromFilename>false</extractTimeFromFilename>
+      <dateInterpretationPattern>yyyyMMdd</dateInterpretationPattern>
+      <filenameInterpretationPattern>*${startDate}*${endDate}*</filenameInterpretationPattern>
+      <includeOriginalInput>false</includeOriginalInput>
+  </parameters>
+
+  </node>
+</graph>
