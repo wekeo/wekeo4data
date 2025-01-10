@@ -1,0 +1,11 @@
+# Copyright holder
+EUMETSAT 
+
+Work partly developed under contract EUM/CO/17/4600001942/CT
+ 
+# List of development authors
+Anna-Lena Erdmann, annalena.erdmann@eumetsat.int
+
+
+
+# Acknowledgements
