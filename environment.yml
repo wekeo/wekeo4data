@@ -1,0 +1,13 @@
+name: wekeo4data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::python=3.11
+  - conda-forge::ipykernel=6.29.5
+  - conda-forge::hda=2.22
+  - conda-forge::earthkit-data
+  - conda-forge::xcube
+  - conda-forge::pip 
+  - pip:
+    - eocanvas
