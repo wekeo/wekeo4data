@@ -1,0 +1,12 @@
+product: OLL1EFR
+aggregation: orbit
+filter:
+  bands:
+  - oa03_radiance
+  - oa06_radiance
+  - oa08_radiance
+projection: geographic
+resample_resolution:
+- 0.003
+- 0.003
+format: netcdf4
