@@ -4,6 +4,8 @@
 designed to provide an introduction and examples on the use 
 of the CliMetLab WEkEO Plugins.
 
+**PLEASE NOTE:** As of March 2025, the climetlab WEkEO Plugins have been superseeded by the [earthkit WEkEO plugins]('https://earthkit-data.readthedocs.io/en/latest/examples/wekeo.html'). The climetlab plugins and the notebooks are no longer maintained. Please check out the [wekeo-earthkit repository]('https://github.com/wekeo/wekeo4data/tree/main/wekeo-earthkit') to get started with WEkEO data using the [earthkit python package](https://github.com/ecmwf/earthkit).  
+
 ## License
  
 This code is licensed under an MIT license. 
