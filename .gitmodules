@@ -4,3 +4,18 @@
 [submodule "wekeo-gpu/ibm-geospatial-foundation-models"]
 	path = wekeo-gpu/ibm-geospatial-foundation-models
 	url = https://github.com/ibm-granite/geospatial.git
+[submodule "wekeo-earthkit"]
+	path = wekeo-earthkit
+	url = https://github.com/wekeo/wekeo-earthkit.git
+[submodule "wekeo-eocanvas"]
+	path = wekeo-eocanvas
+	url = https://github.com/wekeo/wekeo-eocanvas.git
+[submodule "wekeo-gpu"]
+	path = wekeo-gpu
+	url = https://github.com/wekeo/wekeo-gpu.git
+[submodule "wekeo-hda"]
+	path = wekeo-hda
+	url = https://github.com/wekeo/wekeo-hda.git
+[submodule "wekeo-xcube"]
+	path = wekeo-xcube
+	url = https://github.com/wekeo/wekeo-xcube.git
