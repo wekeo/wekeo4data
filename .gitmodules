@@ -19,3 +19,6 @@
 [submodule "wekeo-xcube"]
 	path = wekeo-xcube
 	url = https://github.com/wekeo/wekeo-xcube.git
+[submodule "wekeo-dask"]
+	path = wekeo-dask
+	url = https://github.com/wekeo/wekeo-dask
