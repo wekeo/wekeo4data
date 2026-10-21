@@ -1,9 +1,6 @@
 [submodule "working-with-python"]
 	path = working-with-python
 	url = https://github.com/wekeo/working-with-python.git
-[submodule "wekeo-gpu/ibm-geospatial-foundation-models"]
-	path = wekeo-gpu/ibm-geospatial-foundation-models
-	url = https://github.com/ibm-granite/geospatial.git
 [submodule "wekeo-earthkit"]
 	path = wekeo-earthkit
 	url = https://github.com/wekeo/wekeo-earthkit.git
