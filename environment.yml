@@ -8,6 +8,7 @@ dependencies:
   - conda-forge::hda=2.22
   - conda-forge::earthkit-data
   - conda-forge::xcube
+  - conda-forge::ipywidgets
   - conda-forge::pip 
   - pip:
     - eocanvas
