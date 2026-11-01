@@ -1,0 +1,11 @@
+name: Notebook QA
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+  pull-requests: write
+jobs:
+  qa:
+    uses: annaerdmann/notebook-qa-automation/.github/workflows/notebook-qa.yml@v1

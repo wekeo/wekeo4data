@@ -1,0 +1,2 @@
+notebook_profile: wekeo
+disabled_checks: [execute, data_source]
